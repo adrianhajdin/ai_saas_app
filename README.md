@@ -2521,7 +2521,7 @@ export default Profile;
 
 ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1egURFUD97_vHDaGGwzXiOLKbZMXW44ND/view?usp=sharing)
+Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
 
 ## <a name="more">🚀 More</a>
 
