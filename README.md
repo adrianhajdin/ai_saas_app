@@ -116,7 +116,7 @@ cd imaginify
 Install the project dependencies using npm:
 
 ```bash
-npm run dev
+npm install
 ```
 
 **Set Up Environment Variables**
